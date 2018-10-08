@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">tugas3</string>
+    <string name="app_name">TUGAS-BERITA</string>
+    <string name="title">MOJOK.CO NEWS</string>
+    <string name="title1">TEMPE ALA SANDIAGA UNO, DARI TEMPE SETIPIS KARTU ATM, TEMPE SACHET, SAMPAI TEMPE SEBESAR TABLET</string>
+    <string name="title2">Baca Selengkapnya ...</string>
+    <string name="title3">MENYIKAPI AKTIVITAS GUNUNG BERAPI DENGAN WOLES ALA MBAH RONO</string>
+    <string name="title4">Baca Selengkapnya ...</string>
 </resources>
